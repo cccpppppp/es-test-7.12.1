@@ -1,4 +1,6 @@
 ### Java template
+target
+.idea
 # Compiled class file
 *.class
 
